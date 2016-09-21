@@ -1,0 +1,87 @@
+                    
+ /*搜房网*/
+ @font-face {
+	 font-family: 'iconfont';
+	 src: url('//at.alicdn.com/t/font_1473412378_613138.eot'); /* IE9*/
+	 src: url('//at.alicdn.com/t/font_1473412378_613138.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+	 url('//at.alicdn.com/t/font_1473412378_613138.woff') format('woff'), /* chrome、firefox */
+	 url('//at.alicdn.com/t/font_1473412378_613138.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+	 url('//at.alicdn.com/t/font_1473412378_613138.svg#iconfont') format('svg'); /* iOS 4.1- */
+ }
+
+
+
+
+ .iconfont{
+	font-family:"iconfont";
+	font-size:1px;
+	color: white;
+	font-style:normal;
+	/*-webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;*/
+   /* -moz-osx-font-smoothing: grayscale;*/
+   /* padding-left:-5px;*/
+}
+
+
+/*
+ *2, 在HTML中需要使用到图标时，使用iconfont类名。
+<i class="iconfont">&#xe600;</i>
+里面写上你想用的图标下面的Unicode：
+ * 
+ * 3,然后你可以通过控制iconfont类的属性改变图标的样式，比如：   下面代码、、、          就可以在页面中引用和修改了。
+ .iconfont{
+	font-family:"iconfont";
+	font-size:16px;
+	font-style:normal;
+	-webkit-font-smoothing: antialiased;
+        -webkit-text-stroke-width: 0.2px;
+        -moz-osx-font-smoothing: grayscale; 
+        padding-left:20px
+}
+ * */
+.iconfont1{
+	font-family: "iconfont";
+	font-size: 70px;
+	font-style: normal;
+	color: white;
+}
+.iconfont2{
+    font-family: "iconfont";
+    color: white;
+    font-size: 23px;
+}
+.iconfont3{
+	font-family: "iconfont";
+	font-size: 50px;
+	font-style: normal;
+	color: white;
+}
+.iconfont4{
+	font-family: "iconfont";
+	font-size: 14px;
+	font-style: normal;
+	color: white;
+}
+ .iconfont5{
+	 font-family: "iconfont";
+	 font-size: 14px;
+	 font-style: normal;
+	 color: #dd0000;
+ }
+.iconfont6{
+	 font-family: "iconfont";
+	 font-size: 8px;
+	 font-style: normal;
+	 color: gainsboro;
+	position: relative;
+	margin-top: -60px;
+	margin-left: 60px;
+ }
+ .iconfont-xf{
+ 	 font-family: "iconfont";
+	 font-size: 8px;
+	 font-style: normal;
+	 color: red;
+	 background-color: red;
+ }
